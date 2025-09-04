@@ -6,7 +6,9 @@ https://img.shields.io/badge/Laravel-10.x-%2523FF2D20?logo=laravel
 https://img.shields.io/badge/Bootstrap-5.x-%25237952B8?logo=bootstrap
 https://img.shields.io/badge/MySQL-8.0-%25234479A1?logo=mysql
 
-https://screenshots/dashboard.png
+https://github.com/brucie2004/laravel-taskflow/tree/main/screenshots/projects.png
+https://github.com/brucie2004/laravel-taskflow/tree/main/screenshots/tasks.png
+
 
 ✨ Features
 User Authentication: Secure registration and login system.
@@ -73,7 +75,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=taskflow
 DB_USERNAME=root
-DB_PASSWORD=your_password
+DB_PASSWORD=
 Run database migrations:
 
 bash
@@ -94,26 +96,9 @@ Click on a project to view it and add Tasks.
 Edit task statuses to keep track of your progress.
 
 📸 Screenshots
-(This is a critical section. You need to add actual screenshots!)
 
-How to take and add screenshots:
-
-Run your application (php artisan serve).
-
-Go to the main page, log in, and go to the projects page.
-
-Take a screenshot (on Windows: Win + Shift + S; on Mac: Cmd + Shift + 4).
-
-Save the image in your project folder (e.g., create a /screenshots folder).
-
-Upload the image to your GitHub repository.
-
-Replace /path/to/your/screenshot.png in the README with the actual path to your image (e.g., screenshots/dashboard.png).
-
-Example of what to add:
-
-![Dashboard View](screenshots/dashboard.png)
-![Project View](screenshots/project.png)
+![task View](screenshots/tasks.png)
+![Project View](screenshots/projects.png)
 
 🤝 Contributing
 This is a personal learning project. However, suggestions and feedback are always welcome. Feel free to fork the project and submit pull requests.
@@ -122,6 +107,6 @@ This is a personal learning project. However, suggestions and feedback are alway
 This project is open-source and is available under the MIT License.
 
 👨‍💻 Author
-Ibrahim
+Abod Shibany
 
 GitHub: @brucie2004
